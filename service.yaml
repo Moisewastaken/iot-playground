@@ -8,7 +8,7 @@ spec:
   ports:
   - name: iot-playground-port
     port: 8888
-    targetPort: 4242
+    targetPort: 8888
     protocol: TCP
   type:
     LoadBalancer
