@@ -7,7 +7,7 @@ spec:
     app: iot-playground
   ports:
   - name: iot-playground-port
-    port: 8888
+    port: 4242
     targetPort: 8888
     protocol: TCP
   type:
